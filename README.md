@@ -4,12 +4,10 @@ An executive-level, interactive retail sales dashboard built in Microsoft Excel.
 
 ---
 
-
 ## 🎬 Dashboard in Action
 *A quick walkthrough showcasing the dynamic theme transition and live slicer filtering.*
 
-<!-- Replace with your actual video link or GIF -->
-[![Watch the Dashboard Demo](https://youtube.com/shorts/AdXoTT7pi3E?si=ntV_NERYwCr_XrIb)
+[![Watch Dashboard Demo](https://img.shields.io/badge/▶_Watch_Video_Demo-Click_Here-blue?style=for-the-badge&logo=youtube)](https://youtube.com/shorts/AdXoTT7pi3E?si=ntV_NERYwCr_XrIb)
 
 ---
 
