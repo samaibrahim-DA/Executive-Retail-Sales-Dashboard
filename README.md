@@ -4,18 +4,12 @@ An executive-level, interactive retail sales dashboard built in Microsoft Excel.
 
 ---
 
-## 📥 Download Project
-*Access and download the fully interactive macro-enabled Excel workbook.*
-
-👉 **[Download Excel Dashboard (.xlsm)](https://drive.google.com/drive/folders/1WrwVN9YQ0x9NHmcZQ0L3ZaWITSN9aczq?usp=drive_link)**
-
----
 
 ## 🎬 Dashboard in Action
 *A quick walkthrough showcasing the dynamic theme transition and live slicer filtering.*
 
 <!-- Replace with your actual video link or GIF -->
-[![Watch the Dashboard Demo](https://img.shields.io/badge/▶_Watch_Video_Demo-Click_Here-blue?style=for-the-badge)](YOUR-VIDEO-LINK-HERE)
+[![Watch the Dashboard Demo](https://youtube.com/shorts/AdXoTT7pi3E?si=ntV_NERYwCr_XrIb)
 
 ---
 
